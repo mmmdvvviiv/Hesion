@@ -1,1 +1,3 @@
-worker: python mdviidbbb.py
+telegram
+telebot
+os
