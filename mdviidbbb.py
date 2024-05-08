@@ -1,6 +1,8 @@
-import telebot, os
-from telebot import types 
-import os
+#cod py ZEFF_X
+import os,sys,time,random,requests,re,telebot
+
+from bs4 import BeautifulSoup as bs
+from datetime import datetime
 
 url='https://n.facebook.com'
 xurl=url+'/login.php'
